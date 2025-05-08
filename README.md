@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning PHP, Laravel FrameWork, Software Architecture, Infra, DevOps
+- 🌱 I’m currently learning PHP, Laravel FrameWork, Java, SpringBoot, Software Architecture, Infra, DevOps
 
 
 # 📊GitHub Stats
